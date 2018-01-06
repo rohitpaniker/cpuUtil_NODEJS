@@ -5,7 +5,7 @@
 Steps to install and run this application
 
 1. clone the repo:
-#git clone https://github.com/rohitpaniker/cpuUtil_NODEJS.git
+## git clone https://github.com/rohitpaniker/cpuUtil_NODEJS.git
 
 2. cd to cpuUtil_NODEJS
 
